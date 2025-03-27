@@ -1,8 +1,8 @@
 build:
-  version: "11.0"
+  version: "112.0"
 
 accounts:
-  message: "Welcome to xxBank accounts related production-product APIs "
+  message: "Welcome to xxBank accounts related pro-product APIs "
   contactDetails:
     name: "xx Lee - Product Owner"
     email: "{cipher}a29d4ee2b5c47f8ca2bf2eab75859446f8663188cd7e456470f7f51786d357502d6ea31ff2716d23c2feaed9c6b2e2de"
