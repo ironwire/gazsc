@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to 新新Bank loans related QA APIs "
+  contactDetails:
+    name: "Cypressa - QA Lead"
+    email: "pressa@xxbank.com"
+  onCallSupport:
+    - (785) 545-6565
+    - (853) 546-3467

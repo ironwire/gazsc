@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to 新新Bank loans related prod APIs "
+  contactDetails:
+    name: "Dudo - Product Owner"
+    email: "dudo@xxbank.com"
+  onCallSupport:
+    - (723) 656-8709
+    - (156) 342-0956
