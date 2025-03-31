@@ -1,8 +1,8 @@
 build:
-  version: "25090906.5.0"
+  version: "25090906.2505.0"
 
 cards:
-  message: "Welcome to xinxinBank cards related cards_case_cards APIs "
+  message: "Welcome to xinxinBank cards related cards_c250ase_cards APIs "
   contactDetails:
     name: "bulog - Product Owner"
     email: "blog@xxbank.com"
