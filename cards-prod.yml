@@ -1,8 +1,8 @@
 build:
-  version: "1.0"
+  version: "6.5.0"
 
 cards:
-  message: "Welcome to xinxinBank cards related prod APIs "
+  message: "Welcome to xinxinBank cards related prod_redact APIs "
   contactDetails:
     name: "bulog - Product Owner"
     email: "blog@xxbank.com"
