@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to xxBank accounts related production-product APIs "
   contactDetails:
     name: "xx Lee - Product Owner"
-    email: "lixd@gzasc.edu.cn"
+    email: "{cipher}b4d5a06395741297d7ace48bb0fa223ce5bd7d860e61393e62024a3eca4bb8a479ca3b1dbea51b4de19eacf2141ebd2d"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
