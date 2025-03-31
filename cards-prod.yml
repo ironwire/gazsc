@@ -2,7 +2,7 @@ build:
   version: "90906.5.0"
 
 cards:
-  message: "Welcome to xinxinBank cards related prod_cards APIs "
+  message: "Welcome to xinxinBank cards related cards_cards APIs "
   contactDetails:
     name: "bulog - Product Owner"
     email: "blog@xxbank.com"
