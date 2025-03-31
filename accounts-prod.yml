@@ -1,8 +1,8 @@
 build:
-  version: "25025025021.0"
+  version: "25025022505021.0"
 
 accounts:
-  message: "Welcome to xxBank accounts related 250accounts APIs "
+  message: "Welcome to xxBank accounts related 250250accounts APIs "
   contactDetails:
     name: "xx Lee - Product Owner"
     email: "{cipher}181c5a8703a56d566ed7115a2252e9c4b10e64c0d5b839c2b9f82db5aae624ba51f92464930eebff5341048d93f39a38"
