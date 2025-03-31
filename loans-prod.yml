@@ -1,8 +1,8 @@
 build:
-  version: "8.8.8"
+  version: "2508.8.8"
 
 loans:
-  message: "Welcome to 新新Bank loans related prod loans APIs "
+  message: "Welcome to 新新Bank loans related loans-loans APIs "
   contactDetails:
     name: "Dudo - Product Owner"
     email: "dudo@xxbank.com"
