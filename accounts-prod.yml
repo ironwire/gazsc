@@ -1,5 +1,5 @@
 build:
-  version: "20250411.0"
+  version: "20250411_hde.0"
 
 accounts:
   message: "Welcome to xxBank accounts related 好吧250250accounts APIs "
