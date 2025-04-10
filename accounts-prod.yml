@@ -2,7 +2,7 @@ build:
   version: "20250411_hde.0"
 
 accounts:
-  message: "Welcome to xxBank accounts related 好吧250250accounts APIs "
+  message: "Welcome to xxBank accounts related 好好吧250250accounts APIs "
   contactDetails:
     name: "xx Lee - Product Owner"
     email: "{cipher}181c5a8703a56d566ed7115a2252e9c4b10e64c0d5b839c2b9f82db5aae624ba51f92464930eebff5341048d93f39a38"
